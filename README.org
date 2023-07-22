@@ -13,7 +13,7 @@ Ce répertoire contient les présentations que j'ai effectuées dans le cadre de
 - [[file:/src/2023-01-14_cryptoeconomie_WADACI.pdf][2023-01-14_cryptoeconomie_WADACI]]
 - [[file:/src/2022_partie2-blockchain_LIJM.pdf][2022_partie2-blockchain_LIJM]]
 - [[file:/src/2022_partie1-blockchain_LIJM.pdf][2022_partie1-blockchain_LIJM]]
-- [[file:/src/2021-10_numeris.pdf][2021-10_numeris]]
+- [[file:/src/2021-10_numeris.pdf][2021-10_NUMERIS]]
 - [[file:/src/2021-08-11_UVCI.pdf][2021-08-11_UVCI]]
 - [[file:/src/2021-07-28_INPHB_LARIT.pdf][2021-07-28_INPHB_LARIT]]
 - [[file:/src/2021-05-01_UPB.pdf][2021-05-01_UPB]]
