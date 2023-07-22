@@ -22,9 +22,9 @@ Ce répertoire contient les présentations que j'ai effectuées dans le cadre de
 - [[file:/src/2023-07-20_blockchain_CTB.pdf][2023-07-20_blockchain_CTB]]
 
 
-** Licence
+** Licence [[https://creativecommons.org/publicdomain/zero/1.0/legalcode.fr][CC0]]
 Dans la mesure du possible en vertu de la loi, j'ai, Koné Malik Karim, renoncé à tous les droits d'auteur et droits voisins ou connexes relatifs à Présentations-mlk. Ce travail est publié depuis la Côte d'Ivoire.
 
-#+ATTR_HTML: :width 100px
-#+CAPTION: [[https://creativecommons.org/publicdomain/zero/1.0/legalcode.fr][Licence CCO]]
-[[file:/Images/cc-zero.png]]
+# #+ATTR_HTML: :width 100px
+# #+CAPTION: [[https://creativecommons.org/publicdomain/zero/1.0/legalcode.fr][Licence CCO]]
+# [[file:/Images/cc-zero.png]]
