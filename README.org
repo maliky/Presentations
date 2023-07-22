@@ -1,8 +1,29 @@
 * Présentations-mlk
 Ce répertoire contient les présentations que j'ai effectuées dans le cadre de mes activités de formation sur les technologies de la *blockchain* et de *l'intelligence artificielle*, particulièrement en Côte d'Ivoire.
 
+** Liste des présentations
+- [[file://src/2020-07-27_cours2-economie_INPHB.pdf][2020-07-27_cours2-economie_INPHB]]
+- [[file://src/2020-07-27_cours3_blockchain_3g_INPHB.pdf][2020-07-27_cours3_blockchain_3g_INPHB]]
+- [[file://src/2021-03-23_ESATIC.pdf][2021-03-23_ESATIC]]
+- [[file://src/2021-05-01_UPB.pdf][2021-05-01_UPB]]
+- [[file://src/2021-07-28_INPHB_LARIT.pdf][2021-07-28_INPHB_LARIT]]
+- [[file://src/2021-08-11_UVCI.pdf][2021-08-11_UVCI]]
+- [[file://src/2021-10_numeris.pdf][2021-10_numeris]]
+- [[file://src/2022_partie1-blockchain_LIJM.pdf][2022_partie1-blockchain_LIJM]]
+- [[file://src/2022_partie2-blockchain_LIJM.pdf][2022_partie2-blockchain_LIJM]]
+- [[file://src/2023-01-14_blockchain_WADACI.pdf][2023-01-14_blockchain_WADACI]]
+- [[file://src/2023-01-14_cryptoeconomie_WADACI.pdf][2023-01-14_cryptoeconomie_WADACI]]
+- [[file://src/2023-01-21_cryptographie_WADACI.pdf][2023-01-21_cryptographie_WADACI]]
+- [[file://src/2023-01-28_transactions_WADACI.pdf][2023-01-28_transactions_WADACI]]
+- [[file://src/2023-02-04_smart-contract_WADACI.pdf][2023-02-04_smart-contract_WADACI]]
+- [[file://src/2023-02-11_haskell_WADACI.pdf][2023-02-11_haskell_WADACI]]
+- [[file://src/2023-07-18_histoire_IA_juristes_CTB.pdf][2023-07-18_histoire_IA_juristes_CTB]]
+- [[file://src/2023-07-19_usage_IA_CTB.pdf][2023-07-19_usage_IA_CTB]]
+- [[file://src/2023-07-20_blockchain_CTB.pdf][2023-07-20_blockchain_CTB]]
+
+
 ** Licence CC0
 Dans la mesure du possible en vertu de la loi, j'ai, Koné Malik Karim, renoncé à tous les droits d'auteur et droits voisins ou connexes relatifs à Présentations-mlk. Ce travail est publié depuis la Côte d'Ivoire.
 
 #+CAPTION: [[https://creativecommons.org/publicdomain/zero/1.0/legalcode.fr][Licence CCO]]
-http://i.creativecommons.org/p/zero/1.0/88x31.png
+[[file://Images/cc-zero.png]]
