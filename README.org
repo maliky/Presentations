@@ -2,9 +2,9 @@
 Ce répertoire contient les présentations que j'ai effectuées dans le cadre de mes activités de formation sur les technologies de la *blockchain* et de *l'intelligence artificielle*, particulièrement en Côte d'Ivoire.
 
 ** Liste des présentations
-- [[file:/src/2023-07-20_blockchain_CTB.pdf][2023-07-20_blockchain_CTB]]
-- [[file:/src/2023-07-19_usage_IA_CTB.pdf][2023-07-19_usage_IA_CTB]]
-- [[file:/src/2023-07-18_histoire_IA_juristes_CTB.pdf][2023-07-18_histoire_IA_juristes_CTB]]
+- [[file:/src/2023-07-20_blockchainb_TBC.pdf][2023-07-20_blockchain_TBC]]
+- [[file:/src/2023-07-19_usage_IAb_TBC.pdf][2023-07-19_usage_IA_TBC]]
+- [[file:/src/2023-07-18_histoire_IA_juristesb_TBC.pdf][2023-07-18_histoire_IA_juristes_TBC]]
 - [[file:/src/2023-02-11_haskell_WADACI.pdf][2023-02-11_haskell_WADACI]]
 - [[file:/src/2023-02-04_smart-contract_WADACI.pdf][2023-02-04_smart-contract_WADACI]]
 - [[file:/src/2023-01-28_transactions_WADACI.pdf][2023-01-28_transactions_WADACI]]
